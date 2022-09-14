@@ -11,4 +11,5 @@ Notepad++ <https://notepad-plus-plus.org/downloads/v8.4.5/>
 XAMPP <https://www.apachefriends.org/zh_tw/download.html>  
   
 ### Before you start  
-Recommend instale XAMPP in C:\xampp instead of C:\Program Files
+Recommend instale XAMPP in C:\xampp instead of C:\Program Files  
+Allow Apache to change your firewall
