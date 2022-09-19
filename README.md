@@ -12,4 +12,5 @@ XAMPP <https://www.apachefriends.org/zh_tw/download.html>
   
 ### Before you start  
 Recommend instale XAMPP in C:\xampp instead of C:\Program Files  
-Allow Apache to change your firewall
+Allow Apache to change your firewall  
+Also there are some tips to know
